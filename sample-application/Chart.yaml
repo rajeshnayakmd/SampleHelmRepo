@@ -1,0 +1,5 @@
+apiVersion: v2
+name: sample-application
+description: Helm chart for a basic CRUD application
+version: 0.1.0
+

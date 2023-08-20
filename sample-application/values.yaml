@@ -1,0 +1,8 @@
+replicaCount: 2
+image:
+  repository: hub.docker.com/rajeshnayakmd/sample-application
+  tag: latest
+service:
+  type: ClusterIP
+  port: 80
+
